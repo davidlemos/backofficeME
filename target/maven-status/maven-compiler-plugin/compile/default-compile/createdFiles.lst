@@ -1,0 +1,7 @@
+br\com\davidlemos\backofficeME\model\Pessoa.class
+br\com\davidlemos\backofficeME\service\PessoaService.class
+br\com\davidlemos\backofficeME\PessoaController.class
+br\com\davidlemos\backofficeME\backofficeMEController.class
+br\com\davidlemos\backofficeME\service\TokenService.class
+br\com\davidlemos\backofficeME\repository\PessoaRepository.class
+br\com\davidlemos\backofficeME\TokenController.class
